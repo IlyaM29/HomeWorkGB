@@ -1,4 +1,4 @@
-package ru.geekbrains.hw.lesson7;
+package ru.geekbrains.hw.level1.lesson7;
 
 public class Cat {
     private String name;
