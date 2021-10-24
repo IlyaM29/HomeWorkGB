@@ -1,4 +1,4 @@
-package ru.geekbrains.hw.lesson5;
+package ru.geekbrains.hw.level1.lesson5;
 
 public class HomeWorkL5 {
     public static void main(String[] args) {

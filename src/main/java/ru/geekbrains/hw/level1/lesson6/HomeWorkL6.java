@@ -1,7 +1,7 @@
-package ru.geekbrains.hw.lesson6;
+package ru.geekbrains.hw.level1.lesson6;
 
-import ru.geekbrains.hw.lesson6.animals.Cat;
-import ru.geekbrains.hw.lesson6.animals.Dog;
+import ru.geekbrains.hw.level1.lesson6.animals.Cat;
+import ru.geekbrains.hw.level1.lesson6.animals.Dog;
 
 public class HomeWorkL6 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ru.geekbrains.hw.lesson5;
+package ru.geekbrains.hw.level1.lesson5;
 
 public class Employee {
     private String fullName;

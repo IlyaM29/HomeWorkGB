@@ -1,4 +1,4 @@
-package ru.geekbrains.hw.lesson8;
+package ru.geekbrains.hw.level1.lesson8;
 
 import javax.swing.*;
 import java.awt.*;
