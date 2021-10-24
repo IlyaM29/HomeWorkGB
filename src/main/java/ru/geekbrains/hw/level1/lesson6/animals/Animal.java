@@ -1,4 +1,4 @@
-package ru.geekbrains.hw.lesson6.animals;
+package ru.geekbrains.hw.level1.lesson6.animals;
 
 public abstract class Animal {
     String name;
